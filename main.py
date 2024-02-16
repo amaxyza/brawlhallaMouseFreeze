@@ -1,3 +1,5 @@
+#Python script to constantly reposition mouse onto the middle of the screen when playing with the Keyboard + Mouse playstyle. Intended for Brawlhalla.
+
 import pyautogui
 import threading
 import keyboard
