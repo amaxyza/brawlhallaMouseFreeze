@@ -1,6 +1,6 @@
 ## Features
 
-* Force cursor to stay in the same relative position as to not drift off the screen when playing KBM games.
+* Force cursor to stay in the same relative position as to not drift off to another monitor when playing KBM games that do not provide true fullscreen experiences such as Brawlhalla.
   
 ## How to use
 
